@@ -1,0 +1,17 @@
+{
+	"VCenters": [
+        { 
+            "vCenter": "vcenter01.localdomain.local", 
+            "Username": "usr_report01", 
+            "Password": "VMware@2016" 
+        }
+
+	],
+	"InfluxDB": {
+		"Hostname": "localhost",
+        "Port":     "8086",
+		"Database": "VMware",
+        "Username": "vmware",
+		"Password": "vmware1234"
+	}
+}
